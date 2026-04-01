@@ -1,0 +1,15 @@
+./dlib-19.24.99-cp312-cp312-win_amd64.whl
+cmake 
+opencv-python
+tinydb==3.15.0 
+face_recognition 
+imutils 
+scikit-learn 
+json_minify 
+python-datauri
+numpy==1.26.3
+setuptools<81
+# Note: tkinter is part of the Python standard library (Tcl/Tk).
+# It is not installable via pip. If your code requires a GUI, ensure
+# Python was installed with Tcl/Tk support (the default on Windows).
+# Do NOT add a line like `tkinter/` or `tkinter` to this file.
